@@ -1,0 +1,22 @@
+1. Investments
+2. ToDo Lists
+3. Bank Account
+4. Save data feature
+
+
+
+
+1. Investments
+    a. Custom stock addition
+        i. enter symbol/name
+        ii. price bought at
+    b. Charts
+        i. Time intervals
+2. ToDo Lists
+    a. "Add new entry"
+        i. Text
+        ii. Complete By
+        iii. Add to DB
+    b. Existing ToDo
+        i. Check (Completed) - remove from existing ToDoTable to HistoricTable
+        ii. 
